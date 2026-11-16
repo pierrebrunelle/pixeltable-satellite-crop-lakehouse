@@ -1,0 +1,338 @@
+[
+ {
+  "tile_id": "T000",
+  "field_id": "F00",
+  "region": "central-valley",
+  "captured_on": "2026-06-01",
+  "path": "data/tiles/tile_000.png"
+ },
+ {
+  "tile_id": "T001",
+  "field_id": "F01",
+  "region": "po-valley",
+  "captured_on": "2026-06-01",
+  "path": "data/tiles/tile_001.png"
+ },
+ {
+  "tile_id": "T002",
+  "field_id": "F02",
+  "region": "pampas",
+  "captured_on": "2026-06-01",
+  "path": "data/tiles/tile_002.png"
+ },
+ {
+  "tile_id": "T003",
+  "field_id": "F03",
+  "region": "punjab",
+  "captured_on": "2026-06-01",
+  "path": "data/tiles/tile_003.png"
+ },
+ {
+  "tile_id": "T004",
+  "field_id": "F04",
+  "region": "central-valley",
+  "captured_on": "2026-06-02",
+  "path": "data/tiles/tile_004.png"
+ },
+ {
+  "tile_id": "T005",
+  "field_id": "F05",
+  "region": "po-valley",
+  "captured_on": "2026-06-02",
+  "path": "data/tiles/tile_005.png"
+ },
+ {
+  "tile_id": "T006",
+  "field_id": "F06",
+  "region": "pampas",
+  "captured_on": "2026-06-02",
+  "path": "data/tiles/tile_006.png"
+ },
+ {
+  "tile_id": "T007",
+  "field_id": "F07",
+  "region": "punjab",
+  "captured_on": "2026-06-02",
+  "path": "data/tiles/tile_007.png"
+ },
+ {
+  "tile_id": "T008",
+  "field_id": "F08",
+  "region": "central-valley",
+  "captured_on": "2026-06-03",
+  "path": "data/tiles/tile_008.png"
+ },
+ {
+  "tile_id": "T009",
+  "field_id": "F09",
+  "region": "po-valley",
+  "captured_on": "2026-06-03",
+  "path": "data/tiles/tile_009.png"
+ },
+ {
+  "tile_id": "T010",
+  "field_id": "F10",
+  "region": "pampas",
+  "captured_on": "2026-06-03",
+  "path": "data/tiles/tile_010.png"
+ },
+ {
+  "tile_id": "T011",
+  "field_id": "F11",
+  "region": "punjab",
+  "captured_on": "2026-06-03",
+  "path": "data/tiles/tile_011.png"
+ },
+ {
+  "tile_id": "T012",
+  "field_id": "F00",
+  "region": "central-valley",
+  "captured_on": "2026-06-04",
+  "path": "data/tiles/tile_012.png"
+ },
+ {
+  "tile_id": "T013",
+  "field_id": "F01",
+  "region": "po-valley",
+  "captured_on": "2026-06-04",
+  "path": "data/tiles/tile_013.png"
+ },
+ {
+  "tile_id": "T014",
+  "field_id": "F02",
+  "region": "pampas",
+  "captured_on": "2026-06-04",
+  "path": "data/tiles/tile_014.png"
+ },
+ {
+  "tile_id": "T015",
+  "field_id": "F03",
+  "region": "punjab",
+  "captured_on": "2026-06-04",
+  "path": "data/tiles/tile_015.png"
+ },
+ {
+  "tile_id": "T016",
+  "field_id": "F04",
+  "region": "central-valley",
+  "captured_on": "2026-06-05",
+  "path": "data/tiles/tile_016.png"
+ },
+ {
+  "tile_id": "T017",
+  "field_id": "F05",
+  "region": "po-valley",
+  "captured_on": "2026-06-05",
+  "path": "data/tiles/tile_017.png"
+ },
+ {
+  "tile_id": "T018",
+  "field_id": "F06",
+  "region": "pampas",
+  "captured_on": "2026-06-05",
+  "path": "data/tiles/tile_018.png"
+ },
+ {
+  "tile_id": "T019",
+  "field_id": "F07",
+  "region": "punjab",
+  "captured_on": "2026-06-05",
+  "path": "data/tiles/tile_019.png"
+ },
+ {
+  "tile_id": "T020",
+  "field_id": "F08",
+  "region": "central-valley",
+  "captured_on": "2026-06-06",
+  "path": "data/tiles/tile_020.png"
+ },
+ {
+  "tile_id": "T021",
+  "field_id": "F09",
+  "region": "po-valley",
+  "captured_on": "2026-06-06",
+  "path": "data/tiles/tile_021.png"
+ },
+ {
+  "tile_id": "T022",
+  "field_id": "F10",
+  "region": "pampas",
+  "captured_on": "2026-06-06",
+  "path": "data/tiles/tile_022.png"
+ },
+ {
+  "tile_id": "T023",
+  "field_id": "F11",
+  "region": "punjab",
+  "captured_on": "2026-06-06",
+  "path": "data/tiles/tile_023.png"
+ },
+ {
+  "tile_id": "T024",
+  "field_id": "F00",
+  "region": "central-valley",
+  "captured_on": "2026-06-07",
+  "path": "data/tiles/tile_024.png"
+ },
+ {
+  "tile_id": "T025",
+  "field_id": "F01",
+  "region": "po-valley",
+  "captured_on": "2026-06-07",
+  "path": "data/tiles/tile_025.png"
+ },
+ {
+  "tile_id": "T026",
+  "field_id": "F02",
+  "region": "pampas",
+  "captured_on": "2026-06-07",
+  "path": "data/tiles/tile_026.png"
+ },
+ {
+  "tile_id": "T027",
+  "field_id": "F03",
+  "region": "punjab",
+  "captured_on": "2026-06-07",
+  "path": "data/tiles/tile_027.png"
+ },
+ {
+  "tile_id": "T028",
+  "field_id": "F04",
+  "region": "central-valley",
+  "captured_on": "2026-06-08",
+  "path": "data/tiles/tile_028.png"
+ },
+ {
+  "tile_id": "T029",
+  "field_id": "F05",
+  "region": "po-valley",
+  "captured_on": "2026-06-08",
+  "path": "data/tiles/tile_029.png"
+ },
+ {
+  "tile_id": "T030",
+  "field_id": "F06",
+  "region": "pampas",
+  "captured_on": "2026-06-08",
+  "path": "data/tiles/tile_030.png"
+ },
+ {
+  "tile_id": "T031",
+  "field_id": "F07",
+  "region": "punjab",
+  "captured_on": "2026-06-08",
+  "path": "data/tiles/tile_031.png"
+ },
+ {
+  "tile_id": "T032",
+  "field_id": "F08",
+  "region": "central-valley",
+  "captured_on": "2026-06-09",
+  "path": "data/tiles/tile_032.png"
+ },
+ {
+  "tile_id": "T033",
+  "field_id": "F09",
+  "region": "po-valley",
+  "captured_on": "2026-06-09",
+  "path": "data/tiles/tile_033.png"
+ },
+ {
+  "tile_id": "T034",
+  "field_id": "F10",
+  "region": "pampas",
+  "captured_on": "2026-06-09",
+  "path": "data/tiles/tile_034.png"
+ },
+ {
+  "tile_id": "T035",
+  "field_id": "F11",
+  "region": "punjab",
+  "captured_on": "2026-06-09",
+  "path": "data/tiles/tile_035.png"
+ },
+ {
+  "tile_id": "T036",
+  "field_id": "F00",
+  "region": "central-valley",
+  "captured_on": "2026-06-10",
+  "path": "data/tiles/tile_036.png"
+ },
+ {
+  "tile_id": "T037",
+  "field_id": "F01",
+  "region": "po-valley",
+  "captured_on": "2026-06-10",
+  "path": "data/tiles/tile_037.png"
+ },
+ {
+  "tile_id": "T038",
+  "field_id": "F02",
+  "region": "pampas",
+  "captured_on": "2026-06-10",
+  "path": "data/tiles/tile_038.png"
+ },
+ {
+  "tile_id": "T039",
+  "field_id": "F03",
+  "region": "punjab",
+  "captured_on": "2026-06-10",
+  "path": "data/tiles/tile_039.png"
+ },
+ {
+  "tile_id": "T040",
+  "field_id": "F04",
+  "region": "central-valley",
+  "captured_on": "2026-06-11",
+  "path": "data/tiles/tile_040.png"
+ },
+ {
+  "tile_id": "T041",
+  "field_id": "F05",
+  "region": "po-valley",
+  "captured_on": "2026-06-11",
+  "path": "data/tiles/tile_041.png"
+ },
+ {
+  "tile_id": "T042",
+  "field_id": "F06",
+  "region": "pampas",
+  "captured_on": "2026-06-11",
+  "path": "data/tiles/tile_042.png"
+ },
+ {
+  "tile_id": "T043",
+  "field_id": "F07",
+  "region": "punjab",
+  "captured_on": "2026-06-11",
+  "path": "data/tiles/tile_043.png"
+ },
+ {
+  "tile_id": "T044",
+  "field_id": "F08",
+  "region": "central-valley",
+  "captured_on": "2026-06-12",
+  "path": "data/tiles/tile_044.png"
+ },
+ {
+  "tile_id": "T045",
+  "field_id": "F09",
+  "region": "po-valley",
+  "captured_on": "2026-06-12",
+  "path": "data/tiles/tile_045.png"
+ },
+ {
+  "tile_id": "T046",
+  "field_id": "F10",
+  "region": "pampas",
+  "captured_on": "2026-06-12",
+  "path": "data/tiles/tile_046.png"
+ },
+ {
+  "tile_id": "T047",
+  "field_id": "F11",
+  "region": "punjab",
+  "captured_on": "2026-06-12",
+  "path": "data/tiles/tile_047.png"
+ }
+]

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "satellite crop imagery pipeline built with Pixeltable"
+abstract: "Multimodal data pipeline that scores satellite crop tiles with computed columns and exports to Parquet, Iceberg and LanceDB."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-satellite-crop-lakehouse"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-16
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "etl"
+  - "lakehouse"
+  - "satellite-imagery"
+  - "agriculture"
+  - "data-pipeline"
+  - "apache-iceberg"
+  - "multimodal"
