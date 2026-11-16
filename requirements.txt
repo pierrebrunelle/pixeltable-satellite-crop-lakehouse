@@ -2,3 +2,5 @@ pixeltable>=0.7.24
 pillow
 lancedb
 pyiceberg
+pylance
+sqlalchemy
